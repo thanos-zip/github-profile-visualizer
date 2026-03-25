@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # GitHub Profile Visualizer
 
 > Enter any GitHub username and get a beautiful visual breakdown of their activity, languages and repositories.
